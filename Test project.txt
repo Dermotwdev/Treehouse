@@ -1,0 +1,5 @@
+Test project
+
+This project will go onto github using git commands.
+
+Written by dermot
